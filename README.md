@@ -1,6 +1,6 @@
-# KAUST Stage 2 Repository
+# KAUST Stage 2 Repository 🚀⭐️
 
-Welcome to the Stage 2 repository for the Introduction to AI course at KAUST!
+Welcome to the Stage 2 repository for the Introduction to AI course at KAUST!👋🏻🤍
 
 ## About the Repository
 
